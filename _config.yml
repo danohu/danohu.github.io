@@ -49,6 +49,9 @@ url: http://notebook.ohuiginn.net
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
+# Hide future-dated posts
+future: false
+
 #
 # !! You don't need to change any of the configuration flags below !!
 #
