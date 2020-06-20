@@ -18,9 +18,11 @@ html {
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  font-family: et-book,Palatino,palatino linotype,palatino lt std,book antiqua,Georgia,serif;
+  font-size: 21px;
+  line-height: 2rem;
+  color: #111;
+  background-color: #fffff8;
 }
 
 .container {
@@ -30,51 +32,37 @@ body {
   width: 100%;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
-  color: $darkerGray;
-  font-weight: bold;
-
-  line-height: 1.7;
-  margin: 1em 0 15px;
-  padding: 0;
-
-  @include mobile {
-    line-height: 1.4;
-  }
-}
-
 h1 {
-  font-size: 30px;
-  a {
-    color: inherit;
-  }
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 1;
 }
-
-h2 {
-  font-size: 24px;
-}
-
 h3 {
-  font-size: 20px;
+  margin-top: 48px;
+  font-style: italic;
+  font-size: 33px;
+  margin-bottom: 15px;
+  font-weight: normal;
+}
+.muted {
+  color: rgba(0, 0, 0, 0.3)
 }
 
-h4 {
-  font-size: 18px;
-  color: $gray;
-}
+
+
+a {
+  text-decoration: underline;
+  color: #404040;
+  }
+
+
+/*
+Below here is from Jekyll-Now
+Unclear how much of it can be removed
+ */
 
 p {
   margin: 15px 0;
-}
-
-a {
-  color: $blue;
-  text-decoration: none;
-	cursor: pointer;
-  &:hover, &:active {
-    color: $blue;
-  }
 }
 
 ul, ol {
