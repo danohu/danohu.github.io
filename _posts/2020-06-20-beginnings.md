@@ -7,9 +7,7 @@ tags: administrivia, personal
 
 The best day for a beginning must be the summer solstice.
 
-At that other time of beginning, the New Year, I resolved to structure my life around the solstices and the equinoxes.
-
-Covid has thwarted my plans to throw parties on those dates. But it has not stopped me using them for introspection, for contemplation -- and for new beginnings.
+At that other time of beginning, the New Year, I resolved to structure my life around the solstices and the equinoxes. Covid has thwarted my plans to throw parties on those dates. But it has not stopped me using them for introspection, for contemplation -- and for new beginnings.
 
 Hence this notebook, beginning on the longest day. Its immediate inspiration is DrMaciver, whose daily notebook has already spawned a brood of offspring. Mostly, though, it's just latest iteration in my slash-and-burn approach to writing.
 
