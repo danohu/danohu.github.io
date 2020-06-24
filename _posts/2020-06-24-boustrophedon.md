@@ -1,4 +1,13 @@
-Lawn-mowers are internet oxen
+---
+layout: post
+title: Lawn-mowers are internet oxen
+tags: 
+
+---
+
+
+
+
 
 From a [report](https://www.nngroup.com/articles/how-people-read-online/) on how people read online:
 
