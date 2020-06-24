@@ -1,11 +1,9 @@
 ---
 layout: post
 title: Beginnings
-tags: administrivia, personal
+tags: administrivia personal
 
 ---
-
-The best day for a beginning must be the summer solstice.
 
 At that other time of beginning, the New Year, I resolved to structure my life around the solstices and the equinoxes. Covid has thwarted my plans to throw parties on those dates. But it has not stopped me using them for introspection, for contemplation -- and for new beginnings.
 

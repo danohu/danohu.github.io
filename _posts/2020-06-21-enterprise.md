@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Enterprise Software
-tags: technology, free software, politics, personal
+tags: technology "free software" politics personal
 
 
 ---
@@ -14,7 +14,7 @@ Now, for the first time, I get it. I'm working on a tiny project which is entire
 
 And so, I feel an overwhelming sense of powerlessness.
 
-These days I am not used to pwoerless. It reminds me of home and school -- which was the last time I felt continuously, cripplingly, at the mercy of arbitrary rules. That my life since then has been relatively independent is of course the result of immense privilege. It's also because, hating being constrained, I've cashed in some of that privilege running away from authority.
+These days I am not used to feeling powerless. It reminds me of home and school -- of the last time I felt continuously, cripplingly, at the mercy of arbitrary rules. That my life since then has been relatively independent is of course the result of immense privilege. It's also because, hating being constrained, I've cashed in some of that privilege running away from authority.
 
 Now, with this sense of powerlessness in my head, I look at free software in a different light. I had seen it either in political or in practical terms -- as the Right Way and the Best Way. 
 
