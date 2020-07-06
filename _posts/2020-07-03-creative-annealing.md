@@ -12,7 +12,7 @@ I'm slowly rereading *The Act of Creation*, one of the formative books of my tee
 
 He goes *way* too far in attempting to reduce everything to his one system. The picture on the right, from the book's frontispiece, is an example of this. But the book has more than enough insight to make it worth reading.
 
-![Frontispiece to *The Act of Creation*](../images/koestler_frontispiece.jpeg){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+![Frontispiece to *The Act of Creation*](/images/koestler_frontispiece.jpeg){:style="float: right;margin-right: 7px;margin-top: 7px;"}
 
 
 
