@@ -1,5 +1,5 @@
 ---
-layout: post
+2layout: post
 title: Enterprise Software
 tags: technology "free software" politics personal
 
