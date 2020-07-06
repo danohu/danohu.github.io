@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Review: Playing to the Gallery
+title: Review -  Playing to the Gallery
+date: 2020-06-30
 ---
 
 Grayson Perry has found himself a niche in the British media as a guide to modern art. In this short book he sets out to '*answer the basic questions that might come up when we enter an art gallery*'
