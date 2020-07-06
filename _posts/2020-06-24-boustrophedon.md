@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Lawn-mowers are internet oxen
-tags: 
 
 ---
 
