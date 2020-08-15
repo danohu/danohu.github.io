@@ -2,6 +2,8 @@
 title: Autistic human interaction tips
 date: 2020-07-16
 layout: post
+tags:
+ - how to human
 ---
 
 Often, the autistic-spectrum folks in my life have the most interesting things to say about human interactions. Survivorship bias accounts for much of this. I'm only having these conversations with the autistic people who have not only learned how to socialize with neurotypicals, but to talk with them about people and emotions.

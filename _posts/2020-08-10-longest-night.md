@@ -2,6 +2,8 @@
 title: Book review&#58; Sing for the Coming of the Longest Night
 layout: post
 date: 2020-08-10
+tags:
+ - books
 ---
 
 

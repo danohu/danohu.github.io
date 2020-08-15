@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Beginnings
-tags: administrivia personal
+tags: 
+ - meta 
+ - personal
 
 ---
 

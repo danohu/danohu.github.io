@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Practice and Procrastination
+tags:
+ - practice
 ---
 
 

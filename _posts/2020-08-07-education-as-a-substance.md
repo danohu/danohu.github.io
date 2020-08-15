@@ -2,6 +2,7 @@
 title: Education as a Substance
 layout: post
 date: 2020-08-07
+tags: practice
 ---
 
 

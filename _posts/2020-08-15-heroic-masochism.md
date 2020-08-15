@@ -2,7 +2,8 @@
 layout: post
 title: The Artist as Exemplary Sufferer
 date: 2020-08-15
-tags: heroic masochism
+tags: 
+- heroic masochism
 ---
 
 

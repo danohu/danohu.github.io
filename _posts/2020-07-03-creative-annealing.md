@@ -2,6 +2,7 @@
 layout: post
 title: The Act of Creation
 date: 2020-07-03
+tags: books
 ---
 
 > The creative act is not an act of creation in the sense of the Old Testament. It does not create something out of nothing; it uncovers, selects, reshuffles, combines, synthesizes already existing facts, ideas, faculties, skills

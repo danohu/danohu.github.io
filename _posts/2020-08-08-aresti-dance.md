@@ -4,6 +4,7 @@ layout: post
 title: Visual mnemonics for stunt pilots
 
 date: 2020-08-08
+tags: practice
 
 ---
 

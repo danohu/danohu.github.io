@@ -2,6 +2,9 @@
 layout: post
 title: Weimar Culture, by Peter Gay
 date: 2020-08-14
+tags:
+ - books
+ - Germany
 ---
 
 
