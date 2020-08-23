@@ -1,6 +1,7 @@
 ---
 layout: post
-Review&#58; The Flying Classroom
+title: Review&#58; The Flying Classroom
+date: 2020-08-22
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Destructive Character
+date: 2020-08-23
 ---
 
 

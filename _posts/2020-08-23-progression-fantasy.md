@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Progression Fantasy
+date: 2020-08-23
 ---
 
 
