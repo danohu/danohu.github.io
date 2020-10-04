@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-10-05
-title: Movie: Corpus Christi
+title: Corpus Christi
 ---
 
 Take the structure of a light-hearted caper movie. Then throw religion into the mix, specifically Polish Catholicism.
