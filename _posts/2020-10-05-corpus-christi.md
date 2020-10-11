@@ -16,3 +16,4 @@ Then some banter gets out of hand, and Daniel finds himself impersonating a prie
 The bulk of the film examines Daniel's attempt to fill the role of priest, in the absence of any training or ordination. The tension is between Daniel's kindness and intense devotion on one hand, and on the other his betrayal of a church built on hierarchy and the special role of the priest.
 
 The difficulty for me is that Daniel's good qualities as a priest feel superficial. He gazes intently at the Crucifixion, benefiting from  an angular face which seems permanently on the verge of passion. He preaches from the heart, he cares for his flock, he tries to reconcile feuding villagers. But he is the model of priest as coach and therapist. Jesus and the bible don't figure much in his activities. Congenial as this is to my non-believing self, it feels like a very thin take on Catholicism.
+
