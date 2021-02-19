@@ -1,12 +1,8 @@
 ---
 layout: post
 title: Eartha Kitt
-tags:
-- music
-- history
+date: 2020-02-19
 ---
-
-
 
 Until this week, I had never heard of Eartha Kitt. Now I have, it's hard to imagine how I could have missed such an un-ignorable personality.
 
