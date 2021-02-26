@@ -11,11 +11,7 @@ Where does a sexual preference become a kink? An identity? An orientation?
 
 I've been searching for words to talk about myself, and realising that every term is the result of some political battle of the past or the present. Reclaimed slurs, claims for legal or social status, attempts to join a coalition or escape association with another group.
 
-The result is that we have a language twisting around the contours of past disagreements. Take "sexual orientation".
-
-<iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=%22sexual+orientation%22&year_start=1800&year_end=2019&corpus=26&smoothing=3&direct_url=t1%3B%2C%22+sexual+orientation+%22%3B%2Cc0" width=900 height=500 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>
-
-The term was a weapon of the 80s, pushing against the medicalisation and criminalisation of homosexuality. In that context, it was valuable to present being gay as something innate and stable -- which captures the experience of some people, but certainly not all.
+The result is that we have a language twisting around the contours of past disagreements. Take "sexual orientation". The term was a weapon of the 80s, pushing against the medicalisation and criminalisation of homosexuality. In that context, it was valuable to present being gay as something innate and stable -- which captures the experience of some people, but certainly not all.
 
 The innateness, embedded in the word 'orientation', became a key part of the fight for GLBT rights. You can't punish somebody for being 'born this way', and so 'orientation' is written into all kinds of anti-discrimination laws and policies.
 
