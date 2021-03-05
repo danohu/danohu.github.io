@@ -1,6 +1,7 @@
 ---
 title: inflammatory essays
 layout: post
+date: 2021-03-05
 ---
 
 
