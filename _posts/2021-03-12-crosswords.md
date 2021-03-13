@@ -9,7 +9,7 @@ The cryptic crossword has a special place in my heart, alongside cricket, as a B
 
 
 
-How _can_ you explain a clue like:
+How _can_ you explain something like this?
 
 > ! (1,6,1,4)
 
