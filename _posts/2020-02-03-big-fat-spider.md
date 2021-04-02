@@ -1,14 +1,12 @@
+---
 layout: post
-
 title: Harold Wilson's Paranoia
-
+date: 2021-02-03
 tags:
-
 - trump
 - UK
 - politics
 - psychoceramics
-
 ---
 
 In discussions about Trump's sanity, I've felt the need to bring up the immortal words of Harold Wilson, speaking to a pair of journalists shortly after he stepped down as Prime Minister:
