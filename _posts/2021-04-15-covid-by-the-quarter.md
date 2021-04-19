@@ -15,11 +15,9 @@ Frustrating, because the reasons are symptomatic of how people are being killed 
 
 The first reason is that German family doctors are now allowed to give vaccinations, a role previously reserved for centralized vaccination centers.
 
-The second reason is even worse:  **We have just started a new **
+The second reason is even worse:  We have just started a new quarter.
 
-**quarter**.
 Yes, really. 
-
 
 The discussion on manufacturers vaccine production schedules have largely been on numbers per quarter. Given that the EU is scapegoating them for delays, the manufacturers *really really* want to avoid missing their targets. And that leads to weirdness at the boundaries of the quarters.
 
