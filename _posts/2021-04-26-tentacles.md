@@ -1,9 +1,7 @@
+---
 title: Octopi have tentacles instead of children
-
 layout: post
-
 date: 2021-04-26
-
 ---
 
 [Here](https://www.instapaper.com/read/1406639091) is an exhilarating idea from Alison Gopnik: octopi have tentacles instead of children.
